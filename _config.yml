@@ -1,0 +1,28 @@
+name: Wisata Bandung
+favicon: null
+layout_spectrum: 0.14647703315131366
+typography_spectrum: 0.4310526654589921
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5358534385450184
+  lightness: 0.5774221541360021
+  saturation: 0.12280518445186317
+  rhythmicContrast: 0.1353695138823241
+purpose: []
