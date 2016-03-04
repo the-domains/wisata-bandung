@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Wisata Bandung]]></title>
-        <description><![CDATA[Wisata Bandung]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Seratour no 1 tour travel provider in Bandung]]></title>
+        <description><![CDATA[Seratour no 1 tour travel provider in Bandung]]></description>
+        <link>https://thegrid.ai/wisata-bandung/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 21:05:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 17:10:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wisata-bandung/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b0a0f8b-b89a-4dfc-8a09-291284816ad0.jpg">]]></description>
+            <link>https://thegrid.ai/wisata-bandung/d2b89145-b9e2-4160-8bef-1b2fc1ae174c/index.html</link>
+            <guid isPermaLink="false">d2b89145-b9e2-4160-8bef-1b2fc1ae174c</guid>
+            <pubDate>Fri, 04 Mar 2016 17:10:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c64ddfac-0a7a-4d28-9446-0d1bd1175d47.jpg">]]></description>
-            <link>undefinedb93106de-54e2-4628-8092-39b637e9a010/index.html</link>
+            <link>https://thegrid.ai/wisata-bandung/b93106de-54e2-4628-8092-39b637e9a010/index.html</link>
             <guid isPermaLink="false">b93106de-54e2-4628-8092-39b637e9a010</guid>
             <pubDate>Mon, 29 Feb 2016 21:05:26 GMT</pubDate>
         </item>
